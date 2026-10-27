@@ -1,0 +1,11 @@
+{
+  "title": "soloforge 101",
+  "description": "A sign-in portal for Philippine small-business owners and finance teams to forecast cash flow, spot potential shortages, track expected and received payments, and plan follow-ups.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
